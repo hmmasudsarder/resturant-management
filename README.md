@@ -1,5 +1,5 @@
 # Restaurant management
-### live site link https://management-the-restaurant.web.app/
+### live site Link https://restaurant-management-5e26f.web.app/
 
 #### using technology and tools
 - react router dom
