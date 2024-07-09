@@ -4,7 +4,7 @@ const AllProductsCard = ({ product }) => {
   const { _id, name, img, price, food_category, quantity } = product;
   return (
     <div>
-      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 h-full pb-5">
         <a href="#">
           <img
             className="p-8 rounded-t-lg w-[320px]"
